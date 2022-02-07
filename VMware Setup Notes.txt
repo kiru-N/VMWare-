@@ -1,0 +1,14 @@
+Vmware workstation:
+---------------------
+
+1. Download latest vmware workstation.
+2. Start installing by default options
+3. Once started, Create a new virtual machine
+4. Go for easy install steps then Next
+5. We can install Os later after creation or Install Disc image file(OS image downloaded from website) from the specific path where it is located.
+6. choose the guest OS (like Linux,windows) and select the version(Need to download the iso image based on the version selected)
+7. Choose a location where to store the virtual machine(In future we can open the virtual machine from the specified path after finished setting up everything).
+8. check the maximum disk size for the virtual environment (It is not going to take all space while powerup) and finish creating virtual environment.
+9. Once the environment is created , if the ISO image is not uploaded from the installation steps. Now update from devices --> CD/DVD --> browse for the image file loaction and done.
+10. Once the image is uploaded, Poweron the virtual machine. It will take some time to up and run. 
+
